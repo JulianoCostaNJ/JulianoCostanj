@@ -30,6 +30,14 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
 />
 <img 
     align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/> 
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
