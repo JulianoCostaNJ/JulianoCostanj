@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Juliano Costa
+# 👨🏻‍💻 Juliano Costa
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
