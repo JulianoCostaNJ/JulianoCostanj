@@ -38,6 +38,14 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
 /> 
 <img 
     align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -79,7 +87,7 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
   />
 
 </p>
