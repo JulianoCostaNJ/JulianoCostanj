@@ -2,8 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitiba.<br> Cursei Administração na Unifatec em 2018 até 2021 e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. <br>Sou apaixonado por tecnologia e tudo o que ela pode gerar, sou faminto por conhecimento e não vejo a hora de poder compartilhar meu conhecimento e aprendizado através dos meus códigos.<br>Lembrem-se estou no ínicio da minha jornada e posso tropeçar, mas o mais importante é mostrar como farei para melhorar.<br>**"A pessoa que nunca cometeu um erro nunca tentou algo novo" Albert Einstein**
-
+Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitiba.<br> Cursei Administração na Unifatec em 2018 até 2021 e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. <br>Sou apaixonado por tecnologia e tudo o que ela pode gerar, sou faminto por conhecimento e busco unir minha visão de processos e gestão com a tecnologia <br>Sou apaixonado pela capacidade transformadora do código e estou focado em construir uma base sólida em desenvolvimento de software. Acredito que o erro é parte do processo de inovação, e meu foco está na melhoria contínua a cada linha escrita..<br>**"A pessoa que nunca cometeu um erro nunca tentou algo novo" Albert Einstein**
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/julianohc/">
@@ -15,7 +14,6 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -84,26 +82,34 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
-  />
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 
-</p>
+<br/>
+<br/>
+### 📊 Estatísticas do GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
