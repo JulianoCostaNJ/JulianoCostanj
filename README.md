@@ -9,7 +9,7 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -106,10 +106,10 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400&v=1" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&v=1" />
     </td>
   </tr>
 </table>
