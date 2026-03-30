@@ -101,15 +101,16 @@ Me chamo Juliano Henrique Costa, tenho 26 anos e sou nascido e criado em Curitib
 
 <br/>
 <br/>
+
 ### 📊 Estatísticas do GitHub
 
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400&v=1" />
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulianoCostaNJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400&v=1" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&v=1" />
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianoCostaNJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&v=1" />
     </td>
   </tr>
 </table>
